@@ -15,5 +15,5 @@ A simple front-end application for managing cryptocurrency transactions using Et
 ### 1. Clone the Repo
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Maa-ly/cryto.git
+
